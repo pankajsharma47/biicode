@@ -27,7 +27,7 @@ Our support team is plugged in almost 24/7 to answer every question and issue re
 Have a feature request or found a bug in biicode?  
 
 Before opening a fresh issue, do a search on GitHub and make sure it hasn't already been addressed.
-Here are some notes on how to detail feature requests or bug reports:
+Here are some steps regarding how to detail feature requests or bug reports:
 
    * Explain, as detailed as possible, how to reproduce the issue or the specific behaviour for the feautre.
    * Include what you expected to happen and what actually happened.
